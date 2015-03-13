@@ -1,0 +1,196 @@
+8
+
+dir
+11311
+svn+ssh://gamay.ucsd.edu/cellar/common/svn/csplugins/trunk/soc/maital/EnhancedSearch/testData
+svn+ssh://gamay.ucsd.edu/cellar/common/svn
+
+
+
+2007-07-08T06:31:32.747537Z
+10857
+Maitali Ashkenazi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0ecc0d97-ab19-0410-9704-bfe1a75892f5
+
+AGI.NA
+file
+
+
+
+
+2007-07-08T06:31:32.747000Z
+e1b3038fc60cc6fe6044be3ffcd6c23f
+2007-07-08T06:31:32.747537Z
+10857
+Maitali Ashkenazi
+
+Chromosome.NA
+file
+
+
+
+
+2007-07-08T06:31:32.747000Z
+00156408c88a3deadabe2bb2544b4afe
+2007-07-08T06:31:32.747537Z
+10857
+Maitali Ashkenazi
+
+DesiccationResponse.NA
+file
+
+
+
+
+2007-07-08T06:31:32.747000Z
+5866e5d64d915bf245c25a613a544cad
+2007-07-08T06:31:32.747537Z
+10857
+Maitali Ashkenazi
+
+GOBiologicalProcess.NA
+file
+
+
+
+
+2007-07-08T06:31:32.747000Z
+f70ba65bcc73014cd89270f5b314f1f0
+2007-07-08T06:31:32.747537Z
+10857
+Maitali Ashkenazi
+
+GOCellularComponent.NA
+file
+
+
+
+
+2007-07-08T06:31:32.747000Z
+404be206008996d0e6b0d4546bc83104
+2007-07-08T06:31:32.747537Z
+10857
+Maitali Ashkenazi
+
+GOMolecularFunction.NA
+file
+
+
+
+
+2007-07-08T06:31:32.747000Z
+56bf536e12facc44ee5febbf834596e3
+2007-07-08T06:31:32.747537Z
+10857
+Maitali Ashkenazi
+
+GeneTitle.NA
+file
+
+
+
+
+2007-07-08T06:31:32.747000Z
+269df9caa5fa13f7c3fc1c58636dd839
+2007-07-08T06:31:32.747537Z
+10857
+Maitali Ashkenazi
+
+function.na
+file
+11427
+
+
+
+2007-08-16T12:18:00.000000Z
+f02d5656f2e4820e5c640f06495ba72a
+2007-08-17T11:27:23.232842Z
+11427
+Maitali Ashkenazi
+
+interaction.EA
+file
+
+
+
+
+2007-07-08T06:31:32.747000Z
+245010d09410881d94662e3baafbff8e
+2007-07-08T06:31:32.747537Z
+10857
+Maitali Ashkenazi
+
+location.na
+file
+11427
+
+
+
+2007-08-16T12:16:00.000000Z
+e72548a9e3c43fb82d062479b0eb8dfe
+2007-08-17T11:27:23.232842Z
+11427
+Maitali Ashkenazi
+
+mimi_human_0407.sif
+file
+11427
+
+
+
+2007-08-16T19:16:50.000000Z
+ef20f43f3b18fedc484a00dd22f3afe8
+2007-08-17T11:27:23.232842Z
+11427
+Maitali Ashkenazi
+
+network.sif
+file
+
+
+
+
+2007-07-08T06:31:32.747000Z
+58e94a9aabca0db7bf04ae00d19e7f7b
+2007-07-08T06:31:32.747537Z
+10857
+Maitali Ashkenazi
+
+process.na
+file
+11427
+
+
+
+2007-08-16T12:17:00.000000Z
+2acaae4ac1d37e4060d135e86281a096
+2007-08-17T11:27:23.232842Z
+11427
+Maitali Ashkenazi
+
+weight.EA
+file
+
+
+
+
+2007-07-08T06:31:32.747000Z
+b449b8e8f22c0d4a6e3cf58b5b790d02
+2007-07-08T06:31:32.747537Z
+10857
+Maitali Ashkenazi
+

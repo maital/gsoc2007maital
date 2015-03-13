@@ -1,0 +1,151 @@
+8
+
+dir
+11311
+svn+ssh://gamay.ucsd.edu/cellar/common/svn/csplugins/trunk/soc/maital/EnhancedSearch/src/csplugins/enhanced/search
+svn+ssh://gamay.ucsd.edu/cellar/common/svn
+
+
+
+2007-08-03T13:33:30.484189Z
+11302
+Maitali Ashkenazi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0ecc0d97-ab19-0410-9704-bfe1a75892f5
+
+EnhancedSearch.java
+file
+11408
+
+
+
+2007-08-14T18:47:47.140000Z
+a6a22855ea12cb515cc45dfa2a436700
+2007-08-16T08:52:50.887796Z
+11408
+Maitali Ashkenazi
+
+EnhancedSearchDialog.java
+file
+11426
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
+EnhancedSearchIndex.java
+file
+11433
+
+
+
+2007-08-20T01:54:16.250000Z
+792232f4b0cbee7d704e3a317a8b256e
+2007-08-20T20:42:25.208929Z
+11433
+Maitali Ashkenazi
+
+EnhancedSearchPanel.java
+file
+11433
+
+
+
+2007-08-20T21:39:11.125000Z
+a61370839d9cf1493d3726488d0b8d12
+2007-08-20T20:42:25.208929Z
+11433
+Maitali Ashkenazi
+
+EnhancedSearchPlugin.java
+file
+11327
+
+
+
+2007-08-07T17:28:00.500000Z
+33c30b91b355f37d794156d25e15f713
+2007-08-07T16:33:54.477927Z
+11327
+Maitali Ashkenazi
+
+EnhancedSearchQuery.java
+file
+11433
+
+
+
+2007-08-20T21:11:31.171000Z
+5c2bc2b156d06d5baacee2f480c71cde
+2007-08-20T20:42:25.208929Z
+11433
+Maitali Ashkenazi
+
+IndexAndSearch.java
+file
+11426
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
+TestEnhancedSearch.java
+file
+
+
+
+
+2007-08-03T13:33:30.484000Z
+b785226d21d4c0318937519b9974038f
+2007-08-03T13:33:30.484189Z
+11302
+Maitali Ashkenazi
+
+util
+dir
+
